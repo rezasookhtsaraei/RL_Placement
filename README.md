@@ -1,0 +1,1 @@
+The files in this repository implement various types of algorithms for placing services in the computing continuum. The proposed method uses a deep learning algorithm based on PPO that also uses fault tolerance.
