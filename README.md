@@ -11,12 +11,12 @@
   Before running the simulations, please ensure that the following requirements are met:
   Operating System: Linux / macOS / Windows (tested on: Windows)
   Required software packages and libraries:
-     Python ≥ 3 
-     numpy
-     torch
-     matplotlib
-     networkx 
-     collections
+     Python ≥ 3, 
+     numpy,
+     torch,
+     matplotlib,
+     networkx, 
+     collections,
      time
      copy
      simpy
