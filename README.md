@@ -20,6 +20,3 @@
      time
      copy
      simpy
-
-
-All dependencies are listed in the requirements.txt file.
